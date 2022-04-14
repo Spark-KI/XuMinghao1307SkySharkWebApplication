@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site1.Master" AutoEventWireup="true" CodeBehind="Logoff.aspx.cs" Inherits="TianYing1103SkyWebApplication.Logoff" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site1.Master" AutoEventWireup="true" CodeBehind="Logoff.aspx.cs" Inherits="XuMinghao1307SkyWebApplication.Logoff" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
     HOME
     <style type="text/css">

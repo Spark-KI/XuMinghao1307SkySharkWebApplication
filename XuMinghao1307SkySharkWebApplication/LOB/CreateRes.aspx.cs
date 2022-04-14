@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
-namespace TianYing1103SkyWebApplication.LOB
+namespace XuMinghao1307SkyWebApplication.LOB
 {
     public partial class CreateRes : System.Web.UI.Page
     {
