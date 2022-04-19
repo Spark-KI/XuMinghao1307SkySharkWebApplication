@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace XuMinghao1307SkyWebApplication.BM
+namespace XuMinghao1307SkySharkWebApplication.BM
 {
 
 
@@ -60,22 +60,31 @@ namespace XuMinghao1307SkyWebApplication.BM
         protected global::System.Web.UI.WebControls.HyperLink HyperLink2;
 
         /// <summary>
-        /// DropDownList1 control.
+        /// lblMessage control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.DropDownList DropDownList1;
+        protected global::System.Web.UI.WebControls.Label lblMessage;
 
         /// <summary>
-        /// DropDownList2 control.
+        /// listTimesFlown control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.DropDownList DropDownList2;
+        protected global::System.Web.UI.WebControls.ListBox listTimesFlown;
+
+        /// <summary>
+        /// lstDisc1 control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.ListBox lstDisc1;
 
         /// <summary>
         /// Button1 control.
@@ -87,22 +96,22 @@ namespace XuMinghao1307SkyWebApplication.BM
         protected global::System.Web.UI.WebControls.Button Button1;
 
         /// <summary>
-        /// DropDownList3 control.
+        /// txtfare control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.DropDownList DropDownList3;
+        protected global::System.Web.UI.WebControls.TextBox txtfare;
 
         /// <summary>
-        /// TextBox1 control.
+        /// lstDisc2 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox TextBox1;
+        protected global::System.Web.UI.WebControls.ListBox lstDisc2;
 
         /// <summary>
         /// Button2 control.
@@ -114,21 +123,12 @@ namespace XuMinghao1307SkyWebApplication.BM
         protected global::System.Web.UI.WebControls.Button Button2;
 
         /// <summary>
-        /// Button3 control.
+        /// DataGrid1 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button Button3;
-
-        /// <summary>
-        /// GridView1 control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.GridView GridView1;
+        protected global::System.Web.UI.WebControls.GridView DataGrid1;
     }
 }
