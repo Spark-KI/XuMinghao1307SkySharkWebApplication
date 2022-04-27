@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace XuMinghao1307SkyWebApplication.LOB
+namespace XuMinghao1307SkySharkWebApplication.LOB
 {
 
 
@@ -141,13 +141,13 @@ namespace XuMinghao1307SkyWebApplication.LOB
         protected global::System.Web.UI.WebControls.Calendar calDepDate;
 
         /// <summary>
-        /// btnSubmit control.
+        /// btnFStatSubmit control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btnSubmit;
+        protected global::System.Web.UI.WebControls.Button btnFStatSubmit;
 
         /// <summary>
         /// WizardStep2 control.
@@ -166,24 +166,6 @@ namespace XuMinghao1307SkyWebApplication.LOB
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Label Label6;
-
-        /// <summary>
-        /// HyperLink3 control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.HyperLink HyperLink3;
-
-        /// <summary>
-        /// HyperLink4 control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.HyperLink HyperLink4;
 
         /// <summary>
         /// Label7 control.

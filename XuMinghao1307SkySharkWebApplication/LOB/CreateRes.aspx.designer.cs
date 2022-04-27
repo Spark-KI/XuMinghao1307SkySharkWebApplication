@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace XuMinghao1307SkyWebApplication.LOB
+namespace XuMinghao1307SkySharkWebApplication.LOB
 {
 
 
@@ -87,6 +87,15 @@ namespace XuMinghao1307SkyWebApplication.LOB
         protected global::System.Web.UI.WebControls.Label Label2;
 
         /// <summary>
+        /// lblMessageStep1 control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label lblMessageStep1;
+
+        /// <summary>
         /// Label3 control.
         /// </summary>
         /// <remarks>
@@ -132,13 +141,13 @@ namespace XuMinghao1307SkyWebApplication.LOB
         protected global::System.Web.UI.WebControls.Label Label5;
 
         /// <summary>
-        /// Cal1 control.
+        /// Calendar1 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Calendar Cal1;
+        protected global::System.Web.UI.WebControls.Calendar Calendar1;
 
         /// <summary>
         /// WizardStep2 control.
@@ -276,6 +285,15 @@ namespace XuMinghao1307SkyWebApplication.LOB
         protected global::System.Web.UI.WebControls.Label Label13;
 
         /// <summary>
+        /// lblMessageStep3 control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label lblMessageStep3;
+
+        /// <summary>
         /// Label14 control.
         /// </summary>
         /// <remarks>
@@ -310,23 +328,5 @@ namespace XuMinghao1307SkyWebApplication.LOB
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox txtEMail;
-
-        /// <summary>
-        /// btnCreate control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btnCreate;
-
-        /// <summary>
-        /// btnCancle control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btnCancle;
     }
 }

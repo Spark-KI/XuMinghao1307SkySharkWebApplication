@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
-namespace XuMinghao1307SkyWebApplication.LOB
+namespace XuMinghao1307SkySharkWebApplication.LOB
 {
     public partial class QueryStat : System.Web.UI.Page
     {

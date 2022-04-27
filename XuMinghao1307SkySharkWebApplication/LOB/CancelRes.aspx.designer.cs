@@ -7,11 +7,11 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace XuMinghao1307SkyWebApplication.LOB
+namespace XuMinghao1307SkySharkWebApplication.LOB
 {
 
 
-    public partial class CancelRes
+    public partial class CancleRes
     {
 
         /// <summary>
@@ -87,12 +87,12 @@ namespace XuMinghao1307SkyWebApplication.LOB
         protected global::System.Web.UI.WebControls.RequiredFieldValidator RequiredFieldValidator1;
 
         /// <summary>
-        /// btnCancle control.
+        /// btnCancel control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btnCancle;
+        protected global::System.Web.UI.WebControls.Button btnCancel;
     }
 }
